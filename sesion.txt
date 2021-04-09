@@ -1,0 +1,759 @@
+abroad;1;0
+absent;6;5
+accountant;8;7
+accurate;5;4
+ache;4;3
+achieve;1;0
+ad;3;2
+admire;3;2
+advertise;8;7
+advice;12;11
+advise;14;13
+afford;7;4
+afraid;1;0
+afterwards;5;4
+aim;3;2
+alike;3;2
+almost;1;0
+along;3;2
+also;1;0
+although;12;11
+amazed;10;4
+among;6;5
+amusing;3;2
+ankle;1;0
+announcement;2;1
+annoy;4;3
+antique;2;1
+anxious;9;6
+any;1;0
+apart;1;0
+apologise;3;2
+apology;2;1
+appearance;1;0
+appointment;2;1
+approach;8;7
+argue;15;10
+arrange;3;2
+arragement;11;10
+ashamed;2;1
+as long as;5;4
+as well;5;4
+at once;4;3
+attach;1;0
+attempt;9;8
+attract;4;3
+aunt;1;0
+backwards;2;1
+baggage;5;4
+bake;2;1
+baker;3;2
+bald;5;4
+bandage;1;0
+basin;9;8
+bathing suit;3;2
+bathtub;4;3
+bay;2;1
+beard;5;4
+behave;3;2
+belong;6;5
+below;2;1
+beneath;8;7
+beside;3;2
+besides;6;5
+beyond;1;0
+bill;6;3
+bin;8;7
+bite;2;0
+bitter;2;1
+blame;2;1
+blanket;2;1
+blouse;3;2
+boarding pass;2;1
+boil;2;1
+boiled;3;0
+bookshelf;3;2
+borrow;11;8
+bother;2;1
+bowl;4;3
+brake;6;5
+bread;2;1
+breath;1;0
+breathe;2;1
+breeze;2;1
+bride;2;1
+brief;1;0
+bright;3;2
+bring;7;7
+bring up;5;4
+broad;3;2
+brochure;7;8
+light bulb;6;5
+bull;1;0
+bunch;6;7
+bury;4;3
+butcher;2;1
+butter;1;0
+by hand;2;1
+cab;2;1
+cabbage;18;15
+cabinet;4;3
+cage;5;4
+calf;3;2
+call for;5;4
+candle;2;1
+canteen;4;3
+cardboard;2;1
+career;2;1
+carry out;2;1
+case;1;0
+ceiling;3;2
+central heating;1;0
+certain;2;1
+changing room;2;1
+charming;5;2
+cheap;2;1
+cheat;2;1
+check;1;0
+check in;2;1
+check out;2;1
+cheek;3;3
+cheerful;2;1
+cheers!;2;2
+chest of drawers;2;3
+chilli;2;1
+chin;6;4
+clap;4;2
+cliff;2;1
+clothes;2;2
+coast;2;1
+coat;2;1
+cod;2;2
+colleague;9;7
+collet;2;1
+comb;2;5
+compete;2;1
+complain;1;1
+complaint;1;1
+confident;1;1
+consider;1;1
+convince;1;3
+corn;1;0
+costume;1;0
+cosy;1;2
+cottage;0;0
+cough;0;0
+countryside;0;0
+couple;4;2
+court;4;7
+crew;0;0
+cricket;4;4
+crop;0;0
+cross;0;0
+crossing;0;0
+pedestrian crossing;0;0
+cross out;0;0
+crossroads;4;4
+crowd;0;0
+crowded;0;0
+cruise;0;0
+cucumber;4;1
+cupboard;0;0
+curly;0;0
+currency;0;0
+curtain;0;0
+cushion;0;0
+customer;0;0
+customs;0;0
+aubergine;12;9
+avocado;7;4
+baked;4;1
+beans;4;1
+beef;6;3
+beetroot;9;6
+cherries;5;2
+chicken;3;0
+courgette;20;22
+crab;5;2
+duck;3;0
+egg;3;0
+fish;3;0
+fried;6;3
+fruit;3;0
+grapes;4;1
+grilled;4;1
+lamb;4;1
+lemon;6;3
+lobster;13;10
+mango;3;0
+meat;4;1
+melon;3;0
+mussels;8;5
+peach;3;0
+pear;4;1
+pepper;3;0
+pork;3;0
+potatoes;3;0
+prawns;9;6
+raspberries;7;4
+roast;11;8
+salmon;3;0
+seafood;4;1
+squid;6;3
+steamed;5;2
+tuna;3;0
+vegetable;7;4
+affectionate;19;28
+ambitious;9;6
+bossy;4;1
+competitive;3;0
+dishonest;3;0
+disorganized;9;7
+friendly;6;4
+honest;3;1
+imaginative;2;0
+immature;6;4
+impatient;11;9
+independent;10;8
+insecure;7;5
+insensitive;12;10
+irresponsible;10;8
+kind;6;4
+mature;4;2
+moody;5;3
+organized;3;1
+patient;2;0
+rebellious;5;3
+reliable;3;1
+responsible;7;5
+self-confident;5;3
+selfish;7;1
+sensible;5;3
+sensitive;4;2
+sociable;2;0
+spoilt;14;12
+stubborn;14;12
+sympathetic;15;14
+tidy;5;3
+unambitious;3;1
+unfriendly;4;2
+unimaginative;4;2
+unkind;4;2
+unreliable;3;1
+unselfish;4;2
+unsociable;3;1
+untidy;6;4
+cake;2;0
+cookie;2;0
+fresh;2;0
+frozen;2;0
+fruit salad;4;2
+hot;3;1
+low-fat;3;1
+onions;3;1
+pasta;2;0
+raw;2;0
+spicy;3;1
+tinned;5;3
+tomato;3;1
+(How fantastic!);0;0
+(I don't believe it.);0;0
+(Never mind.);0;0
+(Oh no!);0;1
+(Really?);0;0
+(That's great news!);0;1
+(What a great idea!);0;0
+(What a pity.);0;0
+(You're kidding.);0;0
+(Go ahead.);0;0
+(He's a really nice guy.);0;0
+(How do you see…);0;0
+(How incredible!);0;0
+I mean…;1;2
+Not really;6;4
+That's because;4;5
+Things like that;6;4
+allergic;3;1
+cheer yourself up;6;4
+filling;4;2
+generous;3;1
+intolerant;2;0
+miss (v);1;1
+ready-made;6;4
+takeaway;5;3
+talkative;4;2
+topping;3;1
+How fantastic!;2;6
+Never mind;4;2
+Really?;1;0
+What a great idea!);1;2
+What a pity;3;9
+You're kidding;2;1
+Go ahead;4;2
+He's a really nice guy;1;3
+How do you see…;1;2
+How incredible!;2;4
+I mean...;1;0
+What a great idea!;1;5
+miss;2;0
+How do you see...;1;1
+budget;7;4
+charge;7;8
+contactless payment;4;1
+cost;3;0
+earn;3;0
+inherit;6;3
+insurance;7;4
+invest;4;1
+lend;5;2
+live off;5;2
+live on;6;3
+loan;7;4
+mortgage;6;3
+note;5;2
+owe;9;8
+pay;3;0
+pay back;4;1
+raise;7;4
+salary;4;1
+save;3;0
+spend;4;1
+take out;7;6
+tax;5;2
+waste;2;0
+worth;4;2
+beauty treatment;6;4
+cash machine;2;0
+cleaning product;4;2
+cycling trip;6;4
+electricity bill;2;0
+olive oil;2;0
+tap water;3;1
+boiling;3;1
+delighted;6;7
+enormous;5;3
+exhausted;4;2
+fascinating;3;1
+filthy;5;5
+freezing;4;2
+furious;2;0
+hilarious;2;0
+huge;3;1
+positive;4;2
+starving;2;0
+terrified;2;0
+tiny;2;0
+scam;3;1
+car crash;7;2
+coach;8;3
+cycle lane;8;3
+end up;8;4
+ferry;5;0
+lorry;6;1
+motorbike;5;0
+motorway;8;3
+parking fine;9;4
+pedestrian zone;7;2
+petrol station;7;2
+pick up;8;4
+roadworks;10;6
+run out;10;6
+rush hour;7;3
+scooter;4;0
+seat belt;9;5
+set off;9;5
+speed camera;6;2
+speed limit;4;0
+taxi rank;5;1
+traffic jam;4;0
+traffic lights;6;2
+tram;8;4
+Underground;1;2
+van;6;2
+zebra crossing;7;3
+watch / look out!;1;2
+afraid of;14;10
+angry with;7;3
+apologize to;18;14
+argue with;7;3
+arrive at;7;3
+arrive in;7;3
+ask for;7;3
+believe in;8;4
+belong to;5;1
+choose between;4;0
+close to;5;1
+depend on;15;11
+different from;8;4
+dream about;11;7
+excited about;19;15
+famous for;7;3
+fed up with;23;19
+fond of;24;29
+frightened of;24;21
+good at;7;3
+good for;7;3
+interested in;15;11
+keen on;19;15
+kind to;4;0
+laugh at;16;12
+look forward to;23;25
+married to;9;5
+pay for;6;2
+pleased with;18;14
+proud of;7;3
+remind (sb) of;2;2
+rude to;14;10
+scared of;16;12
+spend money on;9;5
+talk about;4;0
+talk to;4;0
+tired of;6;2
+worried about;9;5
+Don't you agree?;1;2
+I agree;5;1
+I don't think that's right.;1;3
+If you ask me, …;0;0
+in my opinion;0;0
+Oh, sure, …;0;0
+Personally;0;0
+To be honest;0;0
+What do you think?;0;0
+Come back.;0;0
+Did you mean;0;0
+It's just that;0;0
+kind of;14;13
+Oh, hang on a minute.;0;0
+ahead of;7;3
+crash into;8;4
+discover;8;4
+find;6;2
+generally;7;3
+get stuck;4;0
+get worse;5;1
+in general;6;2
+likely;8;4
+on the whole;11;7
+prove;8;4
+show;5;1
+tend;6;2
+turn around;5;1
+turn out;17;13
+turn red;6;2
+usually;9;5
+underground;6;3
+look out!;7;3
+remind (subject) of;6;2
+i agree;3;1
+personally;4;0
+come back.;1;1
+bet bet bet;5;0
+cost cost cost;5;0
+cut cut cut;5;0
+hit hit hit;5;0
+hurt hurt hurt;5;0
+let let let;8;3
+put put put;5;0
+shut shut shut;8;3
+lose lost lost;5;0
+shoot shot shot;8;3
+get got got;7;2
+light lit lit;7;3
+sit sat sat;7;2
+keep kept kept;8;3
+sleep slep slep;6;2
+feel felt felt;7;2
+leave left left;9;4
+meet met met;5;0
+bring brought brought;9;6
+buy bought bought;5;0
+fight fought fought;5;0
+think thought thought;7;3
+catch cought cought;6;1
+teach taught taught;9;7
+sell sold sold;7;2
+tell told told;7;2
+pay paid paid;5;0
+make made made;7;3
+stand stood stood;9;7
+understand understood understood;7;2
+lend lent lent;7;2
+send sent sent;5;0
+spend spent spent;6;1
+build built built;6;2
+find found found;5;1
+have had had;4;0
+hear heard heard;6;2
+hold held held;6;2
+read read read;4;0
+say said said;5;1
+drive drove driven;6;1
+ride rode ridden;8;4
+rise rose risen;6;1
+write wrote written;6;2
+bite bit bitten;6;2
+hide hid hidden;6;1
+break broke broken;6;0
+choose chose chosen;6;2
+speak spoke spoken;6;2
+wake woke woken;10;6
+blow blew blown;6;0
+grow grew grown;6;0
+know knew known;6;0
+fly flew flown;7;3
+draw drew drawn;6;0
+show showed shown;6;2
+wear wore worn;13;11
+tear tore torn;13;9
+begin began begun;6;0
+drink drank drunk;6;0
+swin swan swum;6;2
+ring rang rung;6;0
+sing sang sung;6;0
+eat ate eaten;6;0
+fall fell fallen;6;2
+forget forgot forgotten;6;1
+give gave given;6;0
+see saw seen;6;0
+take took taken;7;3
+come back;5;2
+call back;8;2
+cut off;7;1
+dialling;13;7
+engaged;12;6
+go off;10;4
+hang up;10;4
+leave a message;9;3
+messaging;8;2
+monthly contract;8;2
+pay as you go;11;5
+phone network;8;2
+put on hold;10;4
+ringtone;10;4
+send a text message;9;3
+swiping;12;7
+voicemail;13;9
+amazing;8;3
+bored;7;1
+boring;9;3
+depressed;9;3
+depressing;12;6
+disappointed;9;3
+disappointing;12;7
+embarrassed;14;9
+embarrassing;7;1
+excited;7;1
+exciting;9;3
+frightened;8;2
+frightening;14;9
+frustrated;12;6
+frustrating;7;1
+tired;6;0
+tiring;7;1
+appropriate;11;6
+bad manners;7;1
+busking;10;4
+decline;8;2
+give permission;11;5
+inappropriate;12;6
+inconsiderate;10;5
+monopolize;7;1
+musical instruments;5;0
+octave;5;0
+rude;6;1
+tune;6;1
+beat;4;2
+captain;2;0
+circuit;2;0
+course;4;4
+draw;4;2
+fan;3;1
+get fit;2;0
+get injured;3;1
+kick;3;1
+knock out;4;3
+lose;3;1
+pitch;3;2
+player;2;0
+pool;2;0
+referee;4;3
+score;4;2
+send off;4;2
+slope;4;4
+spectator;4;3
+sports hall;4;3
+stadium;2;0
+team;2;0
+throw;4;2
+track;4;5
+train;2;0
+warm up;4;2
+win;2;0
+work out;4;4
+b;0;1
+c;0;0
+e;0;0
+f;0;0
+get in touch;3;2
+get married;1;0
+get on;3;2
+get to know;1;0
+go out together;2;1
+have something in common;1;0
+lose touch;2;1
+meet;2;1
+partner;3;2
+propose;1;0
+break up;2;1
+classmate;1;0
+close friend;1;0
+ex;1;0
+fancy;1;0
+flatmate;1;0
+fiancé;1;0
+fiancée;1;0
+do did done;4;0
+action film;2;0
+animation;2;0
+audience;3;1
+based on;2;0
+cast;3;1
+comedy;3;1
+direct;2;0
+drama;2;0
+dub;2;0
+extra;3;1
+historical film;3;1
+horror film;3;1
+musical;2;0
+play the part of;4;2
+plot;2;0
+review;2;0
+rom-com;2;0
+scene;2;0
+science fiction film;2;0
+script;2;0
+sequel;2;0
+set;3;1
+shoot on location;3;1
+soundtrack;2;0
+special effects;2;1
+star;1;0
+subtitles;1;0
+thriller;2;1
+trailer;1;0
+war film;1;0
+western;1;0
+arms;1;0
+back;1;0
+ears;1;0
+eyes;1;0
+face;1;0
+feet;1;0
+fingers;1;0
+foot;1;0
+hair;1;0
+hands;1;0
+head;1;0
+knees;1;0
+legs;1;0
+lips;1;0
+mouth;1;0
+neck;2;1
+nod;2;1
+nose;1;0
+point;2;1
+shoulders;1;0
+smell;1;0
+smile;2;1
+stare;1;0
+stomach;1;0
+taste;2;1
+teeth;1;0
+thumb;2;1
+toes;1;0
+tongue;2;1
+tooth;1;0
+touch;1;0
+whistle;2;2
+charisma;1;0
+epic;1;0
+on set;2;1
+mugging;3;3
+flown;2;1
+misunderstanding;3;3
+regard;3;10
+to behonest;3;3
+pointless;3;2
+shaken;3;5
+aside;3;4
+sluggish;3;12
+until;1;0
+get-together;3;2
+therefore;3;9
+redeeming;3;11
+treat;3;2
+beg;3;3
+reject;2;1
+encourage;2;1
+restless;3;5
+despair;3;9
+grasp;3;6
+despite;3;14
+bewildered;3;13
+settled;3;11
+soundly;3;4
+rooftop;3;2
+outrageous;3;9
+rely;2;1
+chicken coop;3;3
+whim;3;4
+since;2;4
+hanging out;1;4
+weird;1;3
+kindness;1;3
+nonsense;1;8
+awful;1;0
+messed up;0;0
+fright;0;0
+squeeze;0;0
+troublesome;0;0
+kindred;0;0
+granny;0;0
+bold;0;0
+pickles;0;0
+lit up;0;0
+delight;0;0
+mess around;0;0
+shred;0;0
+glared;0;0
+menacing;0;0
+menacingly;0;0
+jealousy;0;0
+jealous;0;0
+at all;0;0
+realised;0;0
+keep this up;0;0
+that's over the top;0;0
+find out;0;0
+cocky;0;0
+quell;0;0
+get involved;0;0
+regain;0;0
+I realise now;0;0
+tender;0;0
+wipe;0;0
+dirt;0;0
+tingle;0;0
+togs;0;0
+swore;0;0
+misunderstood;0;0
+nonetheless;0;0
+relief;0;0
+I get it;0;0
+repay;0;0
+somehow;0;0
+daring;0;0
+spread;0;0
+don't spread it to me;0;0
+eel;0;0
